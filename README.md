@@ -7,8 +7,8 @@ This script has 3 steps:
 3. The script will now robocopy files in source to destination.
 
 ## How to use
-Run the executable file "RoboCopyGui.exe".
+Run the executable file "robocopy_gui.exe".
 
 OR
 
-Run "python RoboCopyGui.py" in the terminal.
+Run "python robocopy_gui.py" in the terminal.
